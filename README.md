@@ -27,6 +27,3 @@ Use the following command to run the console application:
 - Hibernate ORM 6
 - H2 Embedded Database
 - Maven Build Tool
-
-## License
-This project is licensed under the MIT License.
